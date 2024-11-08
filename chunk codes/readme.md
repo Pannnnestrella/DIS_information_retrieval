@@ -3,6 +3,6 @@ The code files in this folder apply to chunking
 The order of these code files is:
 - truncate
 - Embedding
-- Rank
+- Ranking
 
-Due to the significant increase in the number of documents after chunking, there is not enough memory to run a full data file. Here some utility functions are written to divide large documents into smaller ones.
+Due to the significant increase in the number of documents after chunking, there is not enough memory to load the data file. There are some utility functions to divide large documents into smaller ones.
